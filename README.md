@@ -1,36 +1,24 @@
-# Jekyll-Uno with Projects as Timeline
-A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
+# Michelle Vazquez
+🌍 El viaje de Michelle en el mundo de los Negocios Internacionales
 
-## How does is look
-[Demo](https://www.zuehlke.cloud/)
-![Screenshot](screenshot-overview.png)
-![jekyll-theme-desktop](https://user-images.githubusercontent.com/32843441/72224870-5451ff00-357f-11ea-8fc2-bfbd4499bc63.gif)
-![jekyll-theme-mobil](https://user-images.githubusercontent.com/32843441/72224877-6a5fbf80-357f-11ea-920b-dfae72bf2fbe.gif)
+Desde pequeña, Michelle siempre soñó con conocer el mundo. Mientras otros niños pensaban en ser doctores, maestras o ingenieras, ella se imaginaba en aeropuertos, rodeada de maletas y escuchando diferentes idiomas a su alrededor. Con el tiempo, ese sueño tomó forma en una carrera que hoy la apasiona: Negocios Internacionales.
 
-## Installation/Setup
-1. Download or clone repo `git clone https://github.com/tzuehlke/jekyll-uno-timeline.git`
-2. Enter the folder: `cd jekyll-uno-timeline/`
-3. Build it: `jekyll build`
-4. Start Jekyll server: `jekyll serve`
-5. Configure: `_config.yml`
-   * at least set `font_awesome` or download and add the font in `head.html`
+📚 ¿Por qué Negocios Internacionales?
 
-Access via: [http://localhost:4000/](http://localhost:4000/)
+Michelle eligió esta carrera porque entendió que el comercio no conoce fronteras. En un mundo globalizado, donde lo que se produce en un país puede consumirse a miles de kilómetros, ella quería ser el puente entre culturas, empresas y economías. Estudiar Negocios Internacionales le permite aprender de tratados comerciales, logística, finanzas globales y, sobre todo, del valor de las relaciones humanas en los acuerdos internacionales.
 
-## Details/Features/Changes
-* based on the [Uno-Theme](https://github.com/joshgerdes/jekyll-uno), but:
-  * removed everything with posts
-  * `content-wrapper` can be shown or hidden with button
-  * changed all icons to [Font-Awesome](https://fontawesome.com/)
-  * updated google-analytics snipped
-  * added [Meetup-Link](https://www.meetup.com/)
-  * removed RSS
-  * removed Disqus
-  * using a Timeline-Design instead of posts, therefore no pagination anymore
-* using Timeline ([CSS](https://github.com/le4ker/personal-jekyll-theme/blob/master/css/timeline.scss), [HTML](https://github.com/le4ker/personal-jekyll-theme/blob/master/_includes/timeline.html) ) from [{ Personal } Jekyll Theme](https://github.com/le4ker/personal-jekyll-theme) for a list of projects, but:
-  * still with 3 layouts for different screen-width, but without images on small screens
-  * timeline information source is now `_data/projects.yaml`
-  * always using the `timeline-inverted`-class, for text on the right side of the images
-* using [github_api.js](https://github.com/jarrekk/Jalpc/blob/master/static/js/github_api.js) from [Jalpc.](https://github.com/jarrekk/Jalpc), but:
-  * changed the GitHub-URL for using with persons and organisations
-  * added watchers number
+✈️ Un día en su vida universitaria
+
+Las mañanas de Michelle comienzan con clases de economía y finanzas internacionales. Después, se reúne con su equipo para preparar proyectos sobre mercados emergentes o casos de exportación de productos locales. Entre café y apuntes, nunca falta una conversación sobre política mundial, idiomas o estrategias de negociación.
+
+Por las tardes, aprovecha para estudiar idiomas: inglés, francés y hasta un poco de mandarín. Sabe que dominar varias lenguas es una llave que abre puertas en este campo.
+
+🌟 Retos y motivaciones
+
+No todo es fácil. Michelle enfrenta retos como comprender complejas teorías económicas o analizar políticas comerciales que cambian constantemente. Sin embargo, lo que la motiva es pensar que un día podrá representar a una empresa, a su país o incluso fundar su propio proyecto de exportaciones.
+
+🌐 Su visión de futuro
+
+Michelle sueña con trabajar en una multinacional y recorrer el mundo, pero también con regresar a su comunidad para impulsar a pequeños productores a llevar sus productos al mercado internacional. Para ella, los Negocios Internacionales no son solo números, tratados o estadísticas, sino una oportunidad para conectar personas y crear un impacto positivo en la sociedad.
+
+✨ Así, la historia de Michelle refleja lo que significa estudiar esta carrera: una mezcla de pasión por aprender, curiosidad por otras culturas y la convicción de que los negocios pueden unir al mundo.
