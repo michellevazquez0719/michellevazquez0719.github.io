@@ -7,7 +7,7 @@ Desde pequeña, Michelle siempre soñó con conocer el mundo. Mientras otros ni�
 
 Michelle eligió esta carrera porque entendió que el comercio no conoce fronteras. En un mundo globalizado, donde lo que se produce en un país puede consumirse a miles de kilómetros, ella quería ser el puente entre culturas, empresas y economías. Estudiar Negocios Internacionales le permite aprender de tratados comerciales, logística, finanzas globales y, sobre todo, del valor de las relaciones humanas en los acuerdos internacionales.
 
-![tarea994](descarga(3).png)
+![tarea994](descarga(3).jpg)
 
 
 ✈️ Un día en su vida universitaria
@@ -25,6 +25,7 @@ No todo es fácil. Michelle enfrenta retos como comprender complejas teorías ec
 Michelle sueña con trabajar en una multinacional y recorrer el mundo, pero también con regresar a su comunidad para impulsar a pequeños productores a llevar sus productos al mercado internacional. Para ella, los Negocios Internacionales no son solo números, tratados o estadísticas, sino una oportunidad para conectar personas y crear un impacto positivo en la sociedad.
 
 ✨ Así, la historia de Michelle refleja lo que significa estudiar esta carrera: una mezcla de pasión por aprender, curiosidad por otras culturas y la convicción de que los negocios pueden unir al mundo.
+
 
 
 
